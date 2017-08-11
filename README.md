@@ -12,5 +12,10 @@ http://www.gamesindustry.biz/articles/2016-12-07-overview-on-popular-occlusion-c
 ###Cesium
 Cesium热力图：https://github.com/danwild/CesiumHeatmap
 
+##杂七杂八
 ###热力图
 https://github.com/pa7/heatmap.js
+
+##工具
+###C++读写json
+https://github.com/nlohmann/json
